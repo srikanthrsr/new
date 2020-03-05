@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("\n\n*****Welcome to JENKINS PRIVATE REPO test (auto build)....*****\n\n\n");
+	printf("\n\n*****Welcome to DOCKER test ....*****\n\n\n");
 }
